@@ -28,6 +28,8 @@ Sou **Gerente de Organização Escolar na rede pública estadual de São Paulo (
 
 Levo o que aprendo no curso direto para o trabalho. Uso **Python e inteligência artificial para automatizar tarefas** e facilitar a rotina administrativa da escola.
 
+Atualmente estou desenvolvendo um **sistema de gestão escolar** que reúne todas as informações em um único lugar, para facilitar e agilizar meu trabalho na rede pública estadual.
+
 Hoje meu foco está em **automação com Python e IA**, **sistemas internos** e **desenvolvimento web**, do front ao back.
 
 ```yaml
@@ -74,4 +76,76 @@ stack:     [Python, SQL / SQLite, HTML, CSS, JavaScript]
       </p>
       <p>Projeto de extensão — FATEC Carapicuíba</p>
       <a href="https://github.com/adsonlima98/condomarket">
-        <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-5FA8D3?style=for-the-badge&logo=github&logoColor=0A1628"
+        <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-5FA8D3?style=for-the-badge&logo=github&logoColor=0A1628" alt="Repositório"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗂️ Sistema de Gestão Escolar</h3>
+      <p>Sistema que estou desenvolvendo para facilitar e agilizar meu trabalho na rede pública estadual, reunindo todas as informações em um único lugar: cadastro de servidores, certidões e eventos funcionais. Aplicação desktop com banco SQLite local, empacotada como executável.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-1B3A5C?style=flat-square&logo=python&logoColor=E6EDF3"/>
+        <img src="https://img.shields.io/badge/SQLite-1B3A5C?style=flat-square&logo=sqlite&logoColor=E6EDF3"/>
+        <img src="https://img.shields.io/badge/Desktop-1B3A5C?style=flat-square&logo=windows&logoColor=E6EDF3"/>
+      </p>
+      <p>Em desenvolvimento · SEDUC-SP</p>
+      <img src="https://img.shields.io/badge/Em%20breve-1B3A5C?style=for-the-badge&logoColor=E6EDF3" alt="Em breve"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================== ESTATÍSTICAS ===================== -->
+## Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adsonlima98&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A1628&title_color=5FA8D3&text_color=C9D4E0&icon_color=5FA8D3&locale=pt-br" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsonlima98&layout=compact&langs_count=6&hide_border=true&bg_color=0A1628&title_color=5FA8D3&text_color=C9D4E0&locale=pt-br" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=adsonlima98&locale=pt_BR&hide_border=true&background=0A1628&ring=5FA8D3&fire=5FA8D3&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=5FA8D3&sideLabels=C9D4E0&dates=8B9BB0&stroke=1B3A5C" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adsonlima98&bg_color=0A1628&color=C9D4E0&line=5FA8D3&point=E6EDF3&area=true&area_color=1B3A5C&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" width="100%" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<!-- ===================== TROFÉUS ===================== -->
+## Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adsonlima98&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+<!-- ===================== SNAKE ===================== -->
+## Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adsonlima98/adsonlima98/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adsonlima98/adsonlima98/output/github-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/adsonlima98/adsonlima98/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ===================== RODAPÉ ===================== -->
+<div align="center">
+
+<sub>Construindo uma linha de código por vez · Carapicuíba, SP</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5C,100:0A1628&height=110&section=footer" width="100%" alt="Rodapé"/>
+
+</div>
